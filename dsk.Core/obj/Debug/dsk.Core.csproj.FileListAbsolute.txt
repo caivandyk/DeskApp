@@ -1,0 +1,4 @@
+C:\ExtJS projects\deskApp\dsk.Core\bin\Debug\dsk.Core.dll
+C:\ExtJS projects\deskApp\dsk.Core\bin\Debug\dsk.Core.pdb
+C:\ExtJS projects\deskApp\dsk.Core\obj\Debug\dsk.Core.dll
+C:\ExtJS projects\deskApp\dsk.Core\obj\Debug\dsk.Core.pdb

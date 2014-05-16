@@ -1,0 +1,8 @@
+C:\ExtJS projects\deskApp\dsk.Tests\bin\Debug\dsk.Tests.dll.config
+C:\ExtJS projects\deskApp\dsk.Tests\bin\Debug\dsk.Tests.dll
+C:\ExtJS projects\deskApp\dsk.Tests\bin\Debug\dsk.Tests.pdb
+C:\ExtJS projects\deskApp\dsk.Tests\obj\Debug\dsk.Tests.dll
+C:\ExtJS projects\deskApp\dsk.Tests\obj\Debug\dsk.Tests.pdb
+C:\ExtJS projects\deskApp\dsk.Tests\bin\Debug\dsk.App.dll
+C:\ExtJS projects\deskApp\dsk.Tests\bin\Debug\dsk.App.pdb
+C:\ExtJS projects\deskApp\dsk.Tests\obj\Debug\dsk.Tests.csprojResolveAssemblyReference.cache
